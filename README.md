@@ -22,8 +22,8 @@ Create a public folder with dummy index.html in it and launch live-server from p
 '$ live-server public'
 
 Include script tags in index.html for React and ReactDOM:
-  '<script src="https://unpkg.com/react@16.0.0/umd/react.development.js"></script>'
-  '<script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js"></script>' 
+"https://unpkg.com/react@16.0.0/umd/react.development.js"
+"https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js" 
 
 Create a script folder under public:
 '$ cd ~/react-course-projects/indecision-app/public'
