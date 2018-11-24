@@ -1,0 +1,13 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "A small react app",
+  "main": "index.js",
+  "repository": "https://github.com/vikyvik71/indecision-app.git",
+  "author": "Vittorio <vit.marino@reply.it>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
