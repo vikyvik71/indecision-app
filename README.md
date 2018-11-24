@@ -47,7 +47,10 @@ Init the project:
 Add the presets to project dependencies:
 '$ yarn add babel-preset-react babel-preset-env'
 Check package.json
-
+Create a new src folder under the project root. Create a new app.js under that folder.
+This app.js is the original (not compiled) source script.
+Make babel watch file changes and compile to scripts/app.js (the one included in index.html)
+'$ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch' 
 
 
 
