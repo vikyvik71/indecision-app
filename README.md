@@ -2,9 +2,9 @@
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
-  Check with:<br> 
-  &nbsp;&nbsp;'$ node -v'<br> 
-  &nbsp;&nbsp;'$ npm -v'<br>
+  Check with:<br><br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;'$ node -v'<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;'$ npm -v'<br>
 </p>  
 
 
