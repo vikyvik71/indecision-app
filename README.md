@@ -1,9 +1,11 @@
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
-<p>Check with:</p> 
-&nbsp;&nbsp;<p>'$ node -v'</p> 
-&nbsp;&nbsp;<p>'$ npm -v'</p>
+<p>
+  Check with:<br> 
+  &nbsp;&nbsp;'$ node -v'<br> 
+  &nbsp;&nbsp;'$ npm -v'<br>
+</p>  
 
 
 Install Yarn (globally)
