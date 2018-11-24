@@ -1,4 +1,4 @@
-Install NodeJS (site installer)
+<h1>Install NodeJS (site installer)</h1>
 Check with: 
 '$ node -v'
 '$ npm -v'
