@@ -35,3 +35,19 @@ Create a script folder under public:
 '$ mkdir -p scripts'
 
 Create a single app.js file in the scripts folder, this is the main script for the app
+
+Install Babel (globally), with 2 presets env and react - local dependencies
+'$ yarn global add babel-cli'
+Check with:
+'$ babel --version'
+Navigate to the home project directory:
+'$ cd ~/react-course-projects/indecision-app'
+Init the project:
+'$ yarn init'
+Add the presets to project dependencies:
+'$ yarn add babel-preset-react babel-preset-env'
+Check package.json
+
+
+
+
