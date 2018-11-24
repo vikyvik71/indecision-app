@@ -1,11 +1,10 @@
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
-<p>
-  Check with: 
-  '$ node -v' 
-  '$ npm -v'
-</p>
+<p>Check with:</p> 
+&nbsp;&nbsp;<p>'$ node -v'</p> 
+&nbsp;&nbsp;<p>'$ npm -v'</p>
+
 
 Install Yarn (globally)
 '$ npm install -g yarn'
