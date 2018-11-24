@@ -1,14 +1,14 @@
--- Install NodeJS (site installer)
-	Check with: 
-		'$ node -v'
-		'$ npm -v'
+Install NodeJS (site installer)
+Check with: 
+'$ node -v'
+'$ npm -v'
 
--- Install Yarn (globally)
-	'$ npm install -g yarn'
-	Check with
-		'$ yarn --version'
+Install Yarn (globally)
+'$ npm install -g yarn'
+Check with:
+'$ yarn --version'
 
--- Create a folder project (e.g. ~/react-course-projects/indecision-app)
+Create a folder project (e.g. ~/react-course-projects/indecision-app)
 
 -- Install live-server (globally):
 	'$ yarn global add live-server'
