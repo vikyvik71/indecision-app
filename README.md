@@ -9,7 +9,7 @@
 
 <h3>Install Yarn (globally)</h3>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ npm install -g yarn'
+  '$ npm install -g yarn'
 <p>
 <p>
   Check with:<br>
@@ -21,7 +21,7 @@
 </p>
 <h3>Install live-server (globally)</h3>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn global add live-server'
+  '$ yarn global add live-server'
 <p>
 <p>
   Check with:<br>
