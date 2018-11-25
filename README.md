@@ -2,7 +2,7 @@
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
-  Check with:<br><br> 
+  Check with:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;'$ node -v'<br> 
   &nbsp;&nbsp;&nbsp;&nbsp;'$ npm -v'<br>
 </p>  
@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;'$ npm install -g yarn'
 <p>
 <p>
-  Check with:<br><br>
+  Check with:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn --version'
 </p>
 Create a folder project (e.g. ~/react-course-projects/indecision-app)
