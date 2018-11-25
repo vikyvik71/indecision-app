@@ -1,4 +1,4 @@
-# H1 React course project
+# React course project
 
 **Install NodeJS (site installer)**
 
