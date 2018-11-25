@@ -2,7 +2,7 @@
   $ node -v 
   $ npm -v
   ```
-<h1>React course project</h1>
+**React course project**
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
