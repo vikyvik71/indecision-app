@@ -1,14 +1,10 @@
 **_React course project_**
-<br>
-<h3>Install NodeJS (site installer)</h3>
-<p>
-  Check with:<br>
+**Install NodeJS (site installer)**
+Check with:
   ```
   $ node -v 
   $ npm -v
   ```
-</p>  
-
 <h3>Install Yarn (globally)</h3>
 <p>
   '$ npm install -g yarn'
