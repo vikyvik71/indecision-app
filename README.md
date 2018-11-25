@@ -15,11 +15,11 @@ Check with:
 ```
 $ yarn --version
 ```
-## Create a project folder
+### Create a project folder
 ```
 $ mkdir -p ~/react-course-projects/indecision-app
 ```
-## Install live-server (globally)
+### Install live-server (globally)
 ```
 $ yarn global add live-server
 ```
