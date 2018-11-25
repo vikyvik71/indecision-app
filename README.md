@@ -1,3 +1,7 @@
+  ```
+  $ node -v 
+  $ npm -v
+  ```
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
