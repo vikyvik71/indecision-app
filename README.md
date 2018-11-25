@@ -75,7 +75,7 @@ Check in package.json if dependencies were correctly installed
 $ cd ~/react-course-projects/indecision-app/
 $ mkdir -p src
 ```
-### Create a new app.js
+### Create a new app.js
 ```
 $ cd ~/react-course-projects/indecision-app/src
 $ touch app.js
