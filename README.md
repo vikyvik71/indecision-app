@@ -1,6 +1,6 @@
 # React course project
 
-**Install NodeJS (site installer)**
+### Install NodeJS (site installer)
 
 Check with:
 ```
