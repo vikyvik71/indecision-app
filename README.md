@@ -11,10 +11,11 @@ $ npm -v
 ```
 $ npm install -g yarn
 ```
-<p>
-  Check with:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn --version'
-</p>
+Check with:
+```
+$ yarn --version
+```
+
 <h3>Create a folder project</h3>
 <p>
 (e.g. ~/react-course-projects/indecision-app)
