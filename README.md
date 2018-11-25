@@ -36,10 +36,11 @@ $ touch ~/react-course-projects/indecision-app/public/index.html
 ```
 $ live-server public/
 ```
-
-Include script tags in index.html for React and ReactDOM:
-"https://unpkg.com/react@16.0.0/umd/react.development.js"
-"https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js" 
+### Include script tags in index.html for React and ReactDOM
+```
+<script src="https://unpkg.com/react@16.0.0/umd/react.development.js" type="text/javascript"></script>
+<script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js" type="text/javascript"></script>
+```
 
 Create a script folder under public:
 '$ cd ~/react-course-projects/indecision-app/public'
