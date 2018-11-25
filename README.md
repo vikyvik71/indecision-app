@@ -52,14 +52,19 @@ This is the main script for the app
 $ cd ~/react-course-projects/indecision-app/public/scripts
 $ touch app.js
 ```
-Install Babel (globally), with 2 presets env and react - local dependencies
-'$ yarn global add babel-cli'
+### Install Babel (globally)
+```
+$ yarn global add babel-cli
+```
 Check with:
-'$ babel --version'
-Navigate to the home project directory:
-'$ cd ~/react-course-projects/indecision-app'
-Init the project:
-'$ yarn init'
+```
+$ babel --version
+```
+### Init the project
+```
+$ cd ~/react-course-projects/indecision-app
+$ yarn init
+```
 Add the presets to project dependencies:
 '$ yarn add babel-preset-react babel-preset-env'
 Check package.json
