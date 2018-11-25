@@ -1,9 +1,11 @@
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
   Check with:<br>
-  ```ruby
+  
   $ node -v 
   $ npm -v
   ```
