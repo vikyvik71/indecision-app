@@ -8,8 +8,9 @@
 </p>  
 <br>
 <h3>Install Yarn (globally)</h3>
-
-'$ npm install -g yarn'
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;'$ npm install -g yarn'
+<p>
 Check with:
 '$ yarn --version'
 
