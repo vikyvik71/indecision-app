@@ -41,10 +41,12 @@ $ live-server public/
 <script src="https://unpkg.com/react@16.0.0/umd/react.development.js" type="text/javascript"></script>
 <script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js" type="text/javascript"></script>
 ```
+### Create a script folder under public folder
+```
+$ cd ~/react-course-projects/indecision-app/public
+$ mkdir -p scripts
+```
 
-Create a script folder under public:
-'$ cd ~/react-course-projects/indecision-app/public'
-'$ mkdir -p scripts'
 
 Create a single app.js file in the scripts folder, this is the main script for the app
 
