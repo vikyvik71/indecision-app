@@ -1,7 +1,6 @@
 # React course project
 ## Without Webpack
-### Install NodeJS -> [installer](https://nodejs.org/)
-
+### Install NodeJS -> [Installer](https://nodejs.org/)
 Check with:
 ```
 $ node -v 
