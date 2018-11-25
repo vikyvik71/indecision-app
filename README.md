@@ -1,5 +1,8 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
+```
+git status
+git add
+git commit
+```
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
@@ -8,7 +11,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   
   $ node -v 
   $ npm -v
-  ```
+ 
 </p>  
 
 <h3>Install Yarn (globally)</h3>
