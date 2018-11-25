@@ -1,10 +1,3 @@
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 # React course project
 
 ### Install NodeJS (site installer)
@@ -14,11 +7,10 @@ Check with:
 $ node -v 
 $ npm -v
 ```
-
-<h3>Install Yarn (globally)</h3>
-<p>
-  '$ npm install -g yarn'
-<p>
+### Install Yarn (globally)
+```
+$ npm install -g yarn
+```
 <p>
   Check with:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn --version'
