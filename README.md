@@ -6,9 +6,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;'$ node -v'<br> 
   &nbsp;&nbsp;&nbsp;&nbsp;'$ npm -v'<br>
 </p>  
+<br>
+<h3>Install Yarn (globally)</h3>
 
-
-Install Yarn (globally)
 '$ npm install -g yarn'
 Check with:
 '$ yarn --version'
