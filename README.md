@@ -15,11 +15,10 @@ Check with:
 ```
 $ yarn --version
 ```
-
-<h3>Create a folder project</h3>
-<p>
-(e.g. ~/react-course-projects/indecision-app)
-</p>
+## Create a project folder
+```
+$ mkdir -p ~/react-course-projects/indecision-app
+```
 <h3>Install live-server (globally)</h3>
 <p>
   '$ yarn global add live-server'
