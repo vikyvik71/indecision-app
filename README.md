@@ -32,9 +32,10 @@ $ cd ~/react-course-projects/indecision-app
 $ mkdir -p ~/react-course-projects/indecision-app/public
 $ touch ~/react-course-projects/indecision-app/public/index.html
 ```
-and launch live-server from project home:
-
-'$ live-server public'
+### Launch live-server from project home
+```
+$ live-server public/
+```
 
 Include script tags in index.html for React and ReactDOM:
 "https://unpkg.com/react@16.0.0/umd/react.development.js"
