@@ -6,14 +6,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;'$ node -v'<br> 
   &nbsp;&nbsp;&nbsp;&nbsp;'$ npm -v'<br>
 </p>  
-<br>
+
 <h3>Install Yarn (globally)</h3>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;'$ npm install -g yarn'
 <p>
-Check with:
-'$ yarn --version'
-
+<p>
+  Check with:<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn --version'
+</p>
 Create a folder project (e.g. ~/react-course-projects/indecision-app)
 
 Install live-server (globally):
