@@ -46,10 +46,12 @@ $ live-server public/
 $ cd ~/react-course-projects/indecision-app/public
 $ mkdir -p scripts
 ```
-
-
-Create a single app.js file in the scripts folder, this is the main script for the app
-
+### Create app.js file in the scripts folder
+This is the main script for the app
+```
+$ cd ~/react-course-projects/indecision-app/public/scripts
+$ touch app.js
+```
 Install Babel (globally), with 2 presets env and react - local dependencies
 '$ yarn global add babel-cli'
 Check with:
