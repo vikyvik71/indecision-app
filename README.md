@@ -3,7 +3,7 @@
 <h3>Install NodeJS (site installer)</h3>
 <p>
   Check with:<br>
-  ```
+  ```ruby
   $ node -v 
   $ npm -v
   ```
