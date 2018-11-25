@@ -65,13 +65,23 @@ $ babel --version
 $ cd ~/react-course-projects/indecision-app
 $ yarn init
 ```
-Add the presets to project dependencies:
-'$ yarn add babel-preset-react babel-preset-env'
-Check package.json
-Create a new src folder under the project root. Create a new app.js under that folder.
+### Install Babel presets (env, react)
+```
+$ yarn add babel-preset-react babel-preset-env
+```
+Check in package.json if dependencies were correctly installed
+### Create a new src folder under project root. 
+```
+$ cd ~/react-course-projects/indecision-app/
+$ mkdir -p src
+```
+### Create a new app.js
+```
+$ cd ~/react-course-projects/indecision-app/src
+$ touch app.js
+```
 This app.js is the original (not compiled) source script.
-Make babel watch file changes and compile to scripts/app.js (the one included in index.html)
-'$ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch' 
-
-
-
+### Launch Babel with watch option
+```
+$ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+```
