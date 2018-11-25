@@ -15,8 +15,10 @@
   Check with:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;'$ yarn --version'
 </p>
-Create a folder project (e.g. ~/react-course-projects/indecision-app)
-
+<h3>Create a folder project</h3>
+<p>
+(e.g. ~/react-course-projects/indecision-app)
+</p>
 Install live-server (globally):
 '$ yarn global add live-server'
 Check with:
