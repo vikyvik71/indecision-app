@@ -1,8 +1,4 @@
-  ```
-  $ node -v 
-  $ npm -v
-  ```
-**React course project**
+**_React course project_**
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
