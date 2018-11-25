@@ -1,17 +1,12 @@
-```
-git status
-git add
-git commit
-```
 <h1>React course project</h1>
 <br>
 <h3>Install NodeJS (site installer)</h3>
 <p>
   Check with:<br>
-  
+  ```
   $ node -v 
   $ npm -v
- 
+  ```
 </p>  
 
 <h3>Install Yarn (globally)</h3>
