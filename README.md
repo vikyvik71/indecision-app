@@ -3,8 +3,8 @@
 <h3>Install NodeJS (site installer)</h3>
 <p>
   Check with:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ node -v'<br> 
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ npm -v'<br>
+  ```$ node -v 
+  $ npm -v```
 </p>  
 
 <h3>Install Yarn (globally)</h3>
