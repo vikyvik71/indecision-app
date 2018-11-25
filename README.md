@@ -19,15 +19,14 @@ $ yarn --version
 ```
 $ mkdir -p ~/react-course-projects/indecision-app
 ```
-<h3>Install live-server (globally)</h3>
-<p>
-  '$ yarn global add live-server'
-<p>
-<p>
-  Check with:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;'$ live-server -v'
-</p>
-
+## Install live-server (globally)
+```
+$ yarn global add live-server
+```
+Check with:
+```
+$ live-server -v
+```
 Create a public folder with dummy index.html in it and launch live-server from project home:
 '$ cd ~/react-course-projects/indecision-app'
 '$ mkdir -p ~/react-course-projects/indecision-app/public'
